@@ -40,7 +40,7 @@
 		<source>https://github.com/fredrik-sy/script.module.rerouting</source>
 		</extension>
 	</addon>
-	<addon id="repository.cywteow" name="cywteow Add-ons" version="1.2.0" provider-name="cywteow">
+	<addon id="repository.cywteow" name="cywteow Add-ons" version="1.3.0" provider-name="cywteow">
 		<extension point="xbmc.addon.repository" name="cywteow Add-ons">
 			<info compressed="false">https://raw.githubusercontent.com/sibuibear/sibuibear.github.io/main/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/sibuibear/sibuibear.github.io/main/addons.xml.md5</checksum>
